@@ -1,0 +1,31 @@
+
+Automatización simple con n8n y Telegram
+
+1. ¿Qué evento activa el flujo?
+Respuesta: El evento que activa el flujo es el registro de una nueva compra en el sistema. Una vez detectada 
+por n8n, la automatización envía una notificación al administrador mediante Telegram para informarle 
+que se ha realizado una nueva compra.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+"Se ha registrado una nueva compra. Ingrese al sistema para revisar la información del pedido y continuar 
+con el proceso."
+
+3. ¿Qué información no debería enviarse por seguridad?
+No se deben enviar datos personales o sensibles como:
+- Nombres completos: Cristhian David Carrascal Parra.
+- Números de documento de identidad: 1091975863
+- Direcciones: cll 5 #16
+- Teléfonos: 3125454545
+- Correos electrónicos: cristhian_David23@gmail.com 
+- Contraseñas: 1234567
+- Información bancaria o cualquier dato confidencial: 
+Banco: Banco Ejemplo
+Cuenta: 1234567890
+Tarjeta: 4111 1111 1111 1111
+Contraseña: ClaveSegura123
+
+Evento: Nueva compra registrada.
+
+Acción: enviar mensaje o notificacion a Telegram.
+
+Mensaje: “Nueva compra recibida. Revisar sistema.”

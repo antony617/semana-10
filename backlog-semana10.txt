@@ -1,0 +1,11 @@
+
+1. Como ciudadano quiero reportar el estado de una obra pública para exigir que se cumplan los 
+plazos anunciados.
+2. Como veedor quiero clasificar los reportes por tipo de irregularidad para priorizar los casos 
+más urgentes.
+3. Como líder comunitario quiero publicar el avance de los casos resueltos para mantener informada 
+a la comunidad.
+4. Como ciudadano quiero calificar la respuesta recibida a mi reporte para evaluar la gestión de 
+la entidad responsable.
+5. Como veedor quiero exportar un historial de casos en PDF para presentarlo como soporte ante la 
+autoridad competente.

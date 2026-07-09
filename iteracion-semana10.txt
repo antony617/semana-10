@@ -1,0 +1,25 @@
+
+¿Qué 2 tareas del backlog harías primero?
+
+Respuesta:
+
+1. Definir los requisitos funcionales principales del sistema.
+
+2. Diseñar la interfaz inicial para el usuario.
+
+¿Por qué son las más importantes?  
+Respuesta: Porque establecer los requisitos garantiza que todo el equipo entienda qué se debe construir y 
+evita retrabajos. El diseño inicial permite validar la experiencia del usuario desde el comienzo, asegurando 
+coherencia entre lo que se planea y lo que se desarrolla.
+
+¿Qué significa para ti que una tarea esté “terminada”?  
+Respuesta: Que cumple completamente con los criterios de aceptación definidos, ha sido revisada y probada, y 
+está lista para ser integrada o entregada sin necesidad de correcciones adicionales.
+
+
+Escribe una definición simple de terminado con al menos 3 criterios.
+
+Respuesta:
+1. Cumple los requisitos del usuario.
+2. No presenta errores al ejecutarse.
+3. Está documentada y validada por el equipo.
